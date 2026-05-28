@@ -1,0 +1,6 @@
+{
+  "name": "Anti Dimak Janata Party",
+  "description": "The official movement website for Anti Dimak Janata Party (A.D.J.P.) - Join the movement and view our promises to the nation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
